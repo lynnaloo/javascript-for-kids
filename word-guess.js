@@ -5,11 +5,9 @@
 */
 
 // Prompt Player 1 to enter a word to guess and store
-// as a variable
+// as a variable.
+// TODO: put this in a loop until a valid response is received.
 var secret_word = prompt("Player 1: Enter your secret word.");
-
-// If the word that they entered is empty, then exit
-// the program
 
 // Create a variable to store the number of bad guesses
 var bad_guesses = 0;
@@ -32,6 +30,7 @@ while (bad_guesses !== 3 && good_guesses.indexOf("_") !== -1) {
 
   // Prompt Player 2 to guess a letter and store as
   // a variable.
+  // TODO: put this in a loop until a valid response is received.
   var guess = prompt(
       good_guesses.join(" ") + "\n\n" +
       "Player 2: Guess a letter."
@@ -61,10 +60,9 @@ while (bad_guesses !== 3 && good_guesses.indexOf("_") !== -1) {
 // Once the player has exited the loop, congratulate
 // them on a win, or tell them they have lost and show
 // the secret word.
-alert("The secret word was " + secret_word);
-
 if (bad_guesses === 3) {
   alert("Sorry, please play again!");
 } else {
   alert("Congratulations on your win!");
 }
+alert("The secret word was " + secret_word);
