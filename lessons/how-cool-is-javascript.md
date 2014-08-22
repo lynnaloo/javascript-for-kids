@@ -6,8 +6,7 @@ You can code on any computer as long as it has a browser. You don't have to inst
 
 ### JavaScript doesn't have to be compiled.
 
-This means that you don't have to wait for your code to be transformed before you
-you can run your code. You can just run it.
+This means that JavaScript is "interpreted" by the browser and can be run right away.
 
 ### JavaScript is the most popular programming language.
 
@@ -20,8 +19,20 @@ This means that you can find lots of friends to write code with!
 
 ## Characters of JavaScript
 
-* Semi-colon
-* Curly braces
-* Brackets
+* Semi-colon and Quotes
+
+![](https://community.devexpress.com/blogs/markmiller/Quote_1D185A33.png)
+
+* Curly braces & Brackets
+
+![](https://community.devexpress.com/blogs/markmiller/Brackets_688823C4.png)
+
 * Dots
-* Quotes
+
+![](https://community.devexpress.com/blogs/markmiller/AngleBrackets_39E1F515.png)
+
+* Parenthesis
+
+![](https://community.devexpress.com/blogs/markmiller/90_73752AD9.png)
+
+[Photo credits](https://community.devexpress.com/blogs/markmiller/)
