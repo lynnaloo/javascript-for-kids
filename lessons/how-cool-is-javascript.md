@@ -23,7 +23,7 @@ This means that you can find lots of friends to write code with!
 
 ![](https://community.devexpress.com/blogs/markmiller/Quote_1D185A33.png)
 
-* Curly braces & Brackets
+* Curly braces and Brackets
 
 ![](https://community.devexpress.com/blogs/markmiller/Brackets_688823C4.png)
 
