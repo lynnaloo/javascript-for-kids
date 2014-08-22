@@ -15,7 +15,7 @@ while () {
 }
 ```
 
-Beward of the *infinite loop*
+Beware of the *infinite loop*
 
 ```javascript
 while (1 === 1) {
