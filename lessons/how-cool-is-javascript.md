@@ -2,12 +2,12 @@
 
 ### JavaScript is the language of the web.
 
-As long as you have a web browser, then you can write JavaScript.
+You can code on any computer as long as it has a browser. You don't have to install any special programs.
 
-### JavaScript is interpreted.
+### JavaScript doesn't have to be compiled.
 
-This means that you don't have to have to compile JavaScript before
-you can run your code.
+This means that you don't have to wait for your code to be transformed before you
+you can run your code. You can just run it.
 
 ### JavaScript is the most popular programming language.
 
