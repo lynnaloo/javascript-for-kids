@@ -15,5 +15,5 @@ This means that you can find lots of friends to write code with!
 
 ### Cats like JavaScript too.
 
-[Cats doing JavaScript](https://github.com/maxogden/javascript-for-cats/blob/master/images/customers1.png)
+![Cats doing JavaScript](https://github.com/maxogden/javascript-for-cats/blob/master/images/customers1.png)
 [Photo by JavaScript for Cats](www.jsforcats.com)
