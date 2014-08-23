@@ -7,8 +7,8 @@ with arrays, using conditional statements, and using different types of loops.
 This version of the game doesn't include validation or complex logic in order to
 keep it simple for kids.
 
-I recommend writing code in [jsfiddle.net](www.jsfiddle.net).
-Another good tool is [jsbin.com](www.jsbin.com).
+I recommend writing code in [jsfiddle.net](http://www.jsfiddle.net).
+Another good tool is [jsbin.com](http://www.jsbin.com).
 
 ### To run this game:
 
