@@ -1,6 +1,6 @@
 ## Repeating Code in a Loop
 
-If you want to do something a set amount of time, use a *for loop*
+If you want to do something a set amount of times, use a *for loop*
 
 `i` is the name for our counter. The counter starts at zero and increases by one every 
 time it completes a loop.
