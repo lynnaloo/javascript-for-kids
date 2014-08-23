@@ -3,7 +3,7 @@
 Programming is a way to give instructions to a computer. JavaScript is a type of language that you can
 write these instructions in.
 
-### JavaScript is the language of the web.
+### JavaScript is the language of the internet.
 
 You can code on any computer as long as it has a browser. You don't have to install any special programs.
 
