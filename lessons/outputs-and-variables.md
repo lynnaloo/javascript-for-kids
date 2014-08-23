@@ -35,9 +35,5 @@ prompt("hello world?");
 Display the popup again and save the answer as a variable
 ```javascript
 var answer = prompt("hello world?");
-```
-
-Display the answer
-```javascript
 alert(answer);
 ```
