@@ -1,4 +1,4 @@
-## Creating popups and Variables
+## Creating Popups and Variables
 
 #### Create different types of popups
 
@@ -16,10 +16,10 @@ alert(2 + 2);
 
 Display the result of adding Strings together
 ```javascript
-alert("hello" + " " + "world");
+alert("hello " + "world");
 ```
 
-#### Saving values as a variable
+#### Saving a value as a variable
 
 Make a name for some other value
 ```javascript
