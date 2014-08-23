@@ -23,10 +23,6 @@ for (i = 0; i < secret_word.length; i++) {
 // been guessed.
 while (bad_guesses !== 3 && good_guesses.indexOf("_") !== -1) {
 
-  // Display underscore characters for each letter
-  // in the word that hasn't been guessed
-  //alert(good_guesses.join(" "));
-
   // Prompt Player 2 to guess a letter and store as
   // a variable.
   // TODO: put this in a loop until a valid response is received.
