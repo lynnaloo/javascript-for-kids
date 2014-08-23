@@ -7,10 +7,6 @@ write these instructions in.
 
 You can code on any computer as long as it has a browser. You don't have to install any special programs.
 
-### JavaScript doesn't have to be compiled.
-
-This means that JavaScript is "interpreted" by the browser and can be run right away.
-
 ### JavaScript is the most popular programming language.
 
 This means that you can find lots of friends to write code with!
