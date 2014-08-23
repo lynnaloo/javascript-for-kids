@@ -1,19 +1,20 @@
-## Doing the same thing again and again
+## Running the same code again in a Loop
 
 If you want to do something a set amount of time, use a *for loop*
 
-The `i` variable is name for our counter, that will start at zero.
+`i` is the name for our counter. The counter starts at zero and increases by one every 
+time it completes a loop.
 
 ```javascript
 for (var i = 0; i < 3; i++) {
-
+  alert("Loop number " + i);
 }
 ```
 
 If you want to keep something running until something changes, use a *while loop*
 
 ```javascript
-var i = true
+var i = true;
 while (i) {
   i = false;
 }
@@ -22,7 +23,7 @@ while (i) {
 Beware of the *infinite loop*
 
 ```javascript
-var i = true
+var i = true;
 while (i) {
   // this will never stop repeating
   i = true;
