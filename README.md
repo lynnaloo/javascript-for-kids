@@ -17,7 +17,7 @@ Another good tool is [jsbin.com](http://www.jsbin.com).
 
 ### Or:
 
-* Open the game in [Jsfiddle](http://jsfiddle.net/lynnaloo/Lgeyx450)
+* Open the game in [Jsfiddle](http://jsfiddle.net/lynnaloo/Lgeyx450/)
 
 ### Foundation Lessons
 
