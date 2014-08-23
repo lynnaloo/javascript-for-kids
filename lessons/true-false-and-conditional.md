@@ -1,4 +1,4 @@
-## True and False (Booleans)
+## True and False Values
 
 ```javascript
   var happy = true;
