@@ -1,20 +1,25 @@
-## Lists of Things
+## Lists of Values
 
-An *array* is a list of things.
+An *array* is a list of values.
 
 ```javascript
   var things = ["thing1", "thing2", "thing3"];
 ```
 
-When you want to select something from an array, you can
-find it using the order in the group, or you can use a loop to find it.
-
-In programming, all lists of things are ordered starting with zero!
+Show the first value in the array. 
 
 ```javascript
 alert(things[0]);
+```
 
-for (var i = 0; i < 3; i++) {
-  alert(things[i]);
-}
+Show the second value in the array. 
+
+```javascript
+alert(things[1]);
+```
+
+Show the last value in the array.
+
+```javascript
+alert(things[2]);
 ```
