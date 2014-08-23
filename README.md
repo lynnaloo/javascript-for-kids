@@ -22,10 +22,10 @@ Another good tool is [jsbin.com](www.jsbin.com).
 ### Foundation Lessons
 
 * [JavaScript is Cool](lessons/how-cool-is-javascript.md)
-* [Print things and Save them to Variables](outputs-and-variables.md)
-* [True, False, and Conditionals](true-false-and-conditional.md)
-* [Repeating Code in a Loop](doing-things-in-a-loop.md)
-* [Collections of Things](collections-of-things.md)
+* [Print things and Save them to Variables](lessons/outputs-and-variables.md)
+* [True, False, and Conditionals](lessons/true-false-and-conditional.md)
+* [Repeating Code in a Loop](lessons/doing-things-in-a-loop.md)
+* [Collections of Things](lessons/collections-of-things.md)
 
 ### Bugs!
 
