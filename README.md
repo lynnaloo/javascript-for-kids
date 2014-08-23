@@ -24,7 +24,8 @@ Another good tool is [jsbin.com](www.jsbin.com).
 * [JavaScript is Cool](lessons/how-cool-is-javascript.md)
 * [Print things and Save them to Variables](outputs-and-variables.md)
 * [True, False, and Conditionals](true-false-and-conditional.md)
-* [Doing things in a Loop](doing-things-in-a-loop.md)
+* [Repeating Code in a Loop](doing-things-in-a-loop.md)
+* [Collections of Things](collections-of-things.md)
 
 ### Bugs!
 
