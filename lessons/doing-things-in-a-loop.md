@@ -4,7 +4,7 @@ If you want to repeat code, then you would use a loop.
 
 ### For Loop
 
-If you want to do something a set amount of times, use a *for loop*
+If you want to do something a set amount of times, use a *for loop*.
 
 `i` is the name for our counter. The counter starts at zero and increases by one every 
 time it completes a loop.
@@ -17,7 +17,7 @@ for (var i = 0; i < 3; i++) {
 
 ### While Loop
 
-If you want to keep something running until something changes, use a *while loop*
+If you want to keep something running until something changes, use a *while loop*.
 
 ```javascript
 var i = true;
