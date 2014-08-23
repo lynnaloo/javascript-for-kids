@@ -37,7 +37,7 @@ while (bad_guesses !== 3 && good_guesses.indexOf("_") !== -1) {
   // If the letter exists in the word, we need to
   // add it to the good guesses array
   } else {
-    for (i = 0; i <= secret_word.length; i++) {
+    for (i = 0; i < secret_word.length; i++) {
       // Each time the guess letter is found, we
       // add it as a good guess in the same spot
         if (secret_word[i] === guess) {
