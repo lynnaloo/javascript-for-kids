@@ -1,8 +1,7 @@
-/*
-  Guess the word one letter at a time.
-  Each player is only allowed to guess
-  wrong three times.
-*/
+
+// Guess the word one letter at a time.
+// Each player is only allowed to guess
+// wrong three times.
 
 // Prompt Player 1 to enter a word to guess and store
 // as a variable.
