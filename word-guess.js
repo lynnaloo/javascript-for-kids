@@ -30,10 +30,7 @@ while (bad_guesses !== 3 && good_guesses.indexOf("_") !== -1) {
   // Prompt Player 2 to guess a letter and store as
   // a variable.
   // TODO: put this in a loop until a valid response is received.
-  var guess = prompt(
-      good_guesses.join(" ") + "\n\n" +
-      "Player 2: Guess a letter."
-  );
+  var guess = prompt(good_guesses.join(" ") + "\n\n" + "Player 2: Guess a letter.");
   // If they enter more than one letter, just take the first
   var guess = guess.charAt(0);
 
