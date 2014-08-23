@@ -1,4 +1,4 @@
-## Running the same code again in a Loop
+## Repeating Code in a Loop
 
 If you want to do something a set amount of time, use a *for loop*
 
