@@ -3,11 +3,6 @@
 // Each player is only allowed to guess
 // wrong three times.
 
-// Prompt Player 1 to enter a word to guess and store
-// as a variable.
-// TODO: put this in a loop until a valid response is received.
-var secret_word = prompt("Player 1: Enter your secret word.");
-
 // Create a variable to store the number of bad guesses
 var bad_guesses = 0;
 // Create another array to store good guesses
@@ -17,6 +12,11 @@ var good_guesses = [];
 for (i = 0; i < secret_word.length; i++) {
   good_guesses.push("_");
 }
+
+// Prompt Player 1 to enter a word to guess and store
+// as a variable.
+// TODO: put this in a loop until a valid response is received.
+var secret_word = prompt("Player 1: Enter your secret word.");
 
 // Start a loop that continues as long as the person has
 // not guessed wrong three times, or all of the letters have
