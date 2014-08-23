@@ -13,7 +13,7 @@ find it using the order in the group, or you can use a loop to find it.
 In programming, all lists of things are ordered starting with zero!
 
 ```javascript
-  alert(things[0]);
+alert(things[0]);
 
 for (var i = 0; i < 3; i++) {
   alert(things[i]);
