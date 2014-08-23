@@ -21,13 +21,9 @@ alert("hello " + "world");
 
 #### Saving a value as a variable
 
-Make a name for some other value
+Save the sentence as a variable and display its value
 ```javascript
 var hello = "hello world";
-```
-
-Display the value saved as `hello`
-```javascript
 alert(hello);
 ```
 
