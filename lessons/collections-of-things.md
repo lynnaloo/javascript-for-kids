@@ -1,7 +1,6 @@
-## Collections of Things
+## Lists of Things
 
-If you want to keep a group of things in a collection, then you
-want to create an *array*.
+An *array* is a list of things.
 
 ```javascript
   var things = ["thing1", "thing2", "thing3"];
