@@ -1,8 +1,8 @@
 ## True and False Values
 
 ```javascript
-  var happy = true;
-  var sad = false;
+  var good = true;
+  var bad = false;
 ```
 
 ## Conditionals
@@ -11,7 +11,7 @@ If the statement is true, then do the instructions. Otherwise,
 do something else.
 
 ```javascript
-  if (happy) {
+  if (good) {
     alert("yay!");
   } else {
     alert("boo!");

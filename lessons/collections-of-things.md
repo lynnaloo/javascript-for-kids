@@ -6,20 +6,24 @@ An *array* is a list of values.
   var things = ["thing1", "thing2", "thing3"];
 ```
 
-Show the first value in the array. 
-
 ```javascript
-alert(things[0]);
+  var letters = ["a", "b", "c"];
 ```
 
-Show the second value in the array. 
+Show the first letter in the array.
 
 ```javascript
-alert(things[1]);
+alert(letters[0]);
+```
+
+Show the second value in the array.
+
+```javascript
+alert(letters[1]);
 ```
 
 Show the last value in the array.
 
 ```javascript
-alert(things[2]);
+alert(letters[2]);
 ```

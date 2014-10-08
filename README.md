@@ -18,6 +18,7 @@ Another good tool is [jsbin.com](http://www.jsbin.com).
 ### Or:
 
 * Open the game in [Jsfiddle](http://jsfiddle.net/lynnaloo/Lgeyx450/)
+* Open the game in [CodePen](http://codepen.io/lynnaloo/pen/HDgIf?editors=001)
 
 ### Foundation Lessons
 
@@ -26,6 +27,19 @@ Another good tool is [jsbin.com](http://www.jsbin.com).
 * [True, False, and Conditionals](lessons/true-false-and-conditional.md)
 * [Repeating Code in a Loop](lessons/doing-things-in-a-loop.md)
 * [Lists of Things](lessons/collections-of-things.md)
+
+### Create the Game in 6 Steps
+
+* [Step 1](game-steps/step1.js)
+* [Step 2](game-steps/step2.js)
+* [Step 3](game-steps/step3.js)
+* [Step 4](game-steps/step4.js)
+* [Step 5](game-steps/step5.js)
+* [Final Step](game-steps/final.js)
+
+## Skip to the Final Game
+
+* [Word Guess Game](word-guess.js)
 
 ### Bugs!
 

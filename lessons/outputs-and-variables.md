@@ -2,21 +2,32 @@
 
 #### Create different types of popups
 
-Create a popup with a String
+Create a popup with some text
 
 ```javascript
-alert("hello world");
+alert("hello");
 ```
 
-Display the result of a math problem
+Give users some information
+
+```javascript
+alert("you win!");
+```
+
+```javascript
+alert("you lose!");
+```
+
+Add some numbers together and show the result
 
 ```javascript
 alert(2 + 2);
 ```
 
-Display the result of adding Strings together
+Add some words together
+
 ```javascript
-alert("hello " + "world");
+alert("hello " + "everyone!");
 ```
 
 #### Saving a value as a variable
@@ -29,11 +40,11 @@ alert(hello);
 
 ####Display a popup that asks for an answer
 ```javascript
-prompt("hello world?");
+prompt("Enter a secret word");
 ```
 
 Display the popup again and save the answer as a variable
 ```javascript
-var answer = prompt("hello world?");
+var answer = prompt("Guess a letter");
 alert(answer);
 ```
