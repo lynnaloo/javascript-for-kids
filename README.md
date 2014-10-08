@@ -19,6 +19,7 @@ Another good tool is [jsbin.com](http://www.jsbin.com).
 
 * Open the game in [Jsfiddle](http://jsfiddle.net/lynnaloo/Lgeyx450/)
 * Open the game in [CodePen](http://codepen.io/lynnaloo/pen/HDgIf?editors=001)
+* Open directly from [Github](https://rawgit.com/lynnaloo/javascript-for-kids/master/index.html)
 
 ### Foundation Lessons
 
