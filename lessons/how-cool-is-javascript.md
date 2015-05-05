@@ -1,7 +1,6 @@
 ## JavaScript!
 
-Programming (or coding) is a way to give instructions to a computer. JavaScript is a type of language that you can
-write these instructions in.
+Programming (or coding) is a way to give instructions to a computer. JavaScript is a type of language that allows you to write these instruction.
 
 ### JavaScript is the language of the internet.
 
